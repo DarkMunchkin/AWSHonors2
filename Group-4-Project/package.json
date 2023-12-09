@@ -1,0 +1,21 @@
+{
+  "name": "schedule-maker",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@auth0/auth0-vue": "^2.3.2",
+    "axios": "^1.5.1",
+    "core-js": "^3.8.3",
+    "run": "^1.4.0",
+    "vue": "^3.2.13",
+    "vue-axios": "^3.5.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-service": "~5.0.0"
+  }
+}
